@@ -14,3 +14,4 @@ export const checkApiConnection = async () => {
 };
 
 export const getApiUrl = () => config.API_URL;
+

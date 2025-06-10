@@ -30,3 +30,4 @@ const sequelize = new Sequelize(
 );
 
 export default sequelize;
+// bisa yuk
